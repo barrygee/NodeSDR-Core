@@ -1,4 +1,4 @@
-# Project: NodeSDR - Core Module
+# Project: NodeSDR - Core Service
 
 <strong>Status:</strong> In development
 
@@ -8,9 +8,7 @@
 
 ## Overview
 
-NodeSDR core module for <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a>
-
-This module provides the core structure and configuration for the <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> application and is automatically imported when the <a href="https://github.com/barrygee/NodeSDR/blob/main/setup.sh">setup.sh</a> file is run within that project. 
+This service provides the core structure and configuration for the <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> application.
 
 <br>
 
