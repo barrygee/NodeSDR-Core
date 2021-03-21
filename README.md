@@ -10,16 +10,9 @@
 
 NodeSDR core module for <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a>
 
+This module provides the core structure and configuration for the <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> application and is automatically imported when the <a href="https://github.com/barrygee/NodeSDR/blob/main/setup.sh">setup.sh</a> file is run within that project. 
+
 <br>
-
-## Setup
-
-This module is automatically imported into <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> when the <a href="https://github.com/barrygee/NodeSDR/blob/main/setup.sh">setup.sh</a> file is run within that project. 
-
-
-This module provides the core application structure and configuration for <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a>.
-
-
 
 ## Testing
 
