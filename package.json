@@ -1,0 +1,22 @@
+{
+  "name": "nodesdr-core",
+  "version": "1.0.0",
+  "description": "NodeSDR core application structure",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrygee/NodeSDR-Core.git"
+  },
+  "author": "Barry Gee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrygee/NodeSDR-Core/issues"
+  },
+  "homepage": "https://github.com/barrygee/NodeSDR-Core#readme"
+}
